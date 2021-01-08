@@ -3,7 +3,7 @@
 clone the repo then do the following
 
 ```
-cd hcreatecomp
+cd into repo folder `create-component-cli-main`
 npm i
 npm link
 ```
