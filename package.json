@@ -1,0 +1,21 @@
+{
+  "name": "hcreatecomp",
+  "version": "1.0.0",
+  "description": "A CLI to create react component",
+  "main": "index.js",
+  "bin": {
+    "hamdy@createComp": "./bin/hamdy"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/hamdysalah1",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "inquirer": "^7.3.3"
+  }
+}
