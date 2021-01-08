@@ -16,6 +16,8 @@ run the following command to create component
 hamdy@createComp COMPONENT_NAME
 ```
 
+###### You must `cd` to your component folder first
+
 # Available Options
 
 ##### 1. choose which template to use
