@@ -60,7 +60,7 @@ async function writeComponent(options) {
     );
   }
 
-  if (options.type === "Component Object Model") {
+  if (options.type === "Compound Component") {
     //create main component js file
     fs.writeFileSync(
       `${process.cwd()}/components/${compName}/${compName}.js`,
