@@ -27,7 +27,7 @@ hamdy@createComp COMPONENT_NAME
 
 ##### 2. choose component type
 
-- Component Object Model (Functional component with COM mechanism)
+- Compound Component (Functional compound component)
 - Class Component (WIP)
 
 ##### 3. propType? - should add proptypes validation?
